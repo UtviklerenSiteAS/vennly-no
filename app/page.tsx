@@ -95,10 +95,6 @@ export default function Home() {
             <h2 className="absolute bottom-10 left-10 text-white text-3xl sm:text-4xl lg:text-[2.0rem] xl:text-[2.5rem] font-semibold leading-[1.1] tracking-tight max-w-[24rem]">
               Det perfekte valget for selskaper og events
             </h2>
-
-            <button className="absolute bottom-10 right-10 bg-white text-[#1c1c1c] w-14 h-14 rounded-full flex items-center justify-center hover:scale-105 transition-transform shadow-lg">
-              <ArrowUpRight size={24} strokeWidth={2.5} />
-            </button>
           </div>
         </div>
       </main>
