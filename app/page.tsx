@@ -92,7 +92,7 @@ export default function Home() {
               </span>
             </div>
 
-            <h2 className="absolute bottom-10 left-10 text-white text-3xl sm:text-4xl lg:text-[2.0rem] xl:text-[2.5rem] font-semibold leading-[1.1] tracking-tight max-w-[24rem]">
+            <h2 className="absolute bottom-10 left-10 text-white text-2xl sm:text-4xl lg:text-[2.0rem] xl:text-[2.5rem] font-semibold leading-[1.1] tracking-tight max-w-[24rem]">
               Det perfekte valget for selskaper og events
             </h2>
           </div>
